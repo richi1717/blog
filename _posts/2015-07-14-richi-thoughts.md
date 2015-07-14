@@ -3,7 +3,7 @@ layout: richi
 title:  "Irule Warriors"
 date:   2015-07-14 13:02:11
 categories: jekyll update
-wat: holy co
+
 ---
 # Post About Favorite Lesson Today
 
@@ -11,5 +11,12 @@ Today Brad n Brig taught us how to use jekyll with a more in-depth style.  Brad 
 
 My favorite lesson today was when we learned about sending it to github from terminal.  The more I learn about terminal the more I enjoy it.  It's just easier and faster to do it there.
 
-To be honest, today was a tad confusing.  The speed sucked and whatnot but oh well.  Figured it out by way of just doing it. Duane sucks.
+To be honest, today was a tad confusing.  The speed sucked and whatnot but oh well.  Figured it out by way of just doing it. 
+
+oh and...Keith sucks.
+
+
+
+
+lol jk
 
