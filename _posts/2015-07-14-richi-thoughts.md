@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to My Blog!"
+layout: richi
+title:  "Irule Warriors"
 date:   2015-07-14 13:02:11
 categories: jekyll update
 wat: holy co
