@@ -18,8 +18,9 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
-    color: green;
-    background-color: black;
+    color: $text-color;
+    background-color: $background-color; 
+    
     -webkit-text-size-adjust: 100%;
 }
 
@@ -89,15 +90,16 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: yellow;
+    color: #01A6FE;
+    font-size: 20px;
     text-decoration: none;
 
     &:visited {
-        color: darken(yellow, 15%);
+        color: darken(#01A6FE, 15%);
     }
 
     &:hover {
-        color: red;
+        color: darken(#01A6FE, 30%);
         text-decoration: underline;
     }
 }
@@ -201,4 +203,9 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+.title {
+    color: #01A6FE;
+    text-align: center;
 }
